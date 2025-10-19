@@ -35,8 +35,8 @@ export default function Home() {
         <h2 style={h2Style}>{t("Pitch", "Pitch")}</h2>
         <p style={pStyle}>
           {t(
-            "Override: Genesis explore une mégalopole au bord de la rupture : gangs, rites numériques et corporations s’y disputent les consciences. Trois mini-teasers dévoilent peu à peu l’esthétique, la cadence, et l’émotion — jusqu’au regard de Tina, figure centrale, à la frontière entre loyauté et survie.",
-            "Override: Genesis explores a megalopolis on the brink: gangs, digital rites and corporations vying for minds. Three mini-teasers gradually reveal the look, the pacing and the emotion—culminating in Tina’s gaze, a central figure torn between loyalty and survival."
+            "Override: Genesys explore une mégalopole au bord de la rupture : gangs, rites numériques et corporations s’y disputent les consciences. Trois mini-teasers dévoilent peu à peu l’esthétique, la cadence, et l’émotion — jusqu’au regard de Tina, figure centrale, à la frontière entre loyauté et survie.",
+            "Override: Genesys explores a megalopolis on the brink: gangs, digital rites and corporations vying for minds. Three mini-teasers gradually reveal the look, the pacing and the emotion—culminating in Tina’s gaze, a central figure torn between loyalty and survival."
           )}
         </p>
         <p style={pStyle}>
