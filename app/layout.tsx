@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Override: Genesis — Teasers & Pitch",
+  title: "Override: Genesys — Teasers & Pitch",
   description: "Mini-teasers, pitch narratif, et contact pro pour Override: Genesis by VeenaDev.",
 };
 
