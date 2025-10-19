@@ -14,7 +14,7 @@ export default function Home() {
       {/* Header */}
       <header style={{ display: "flex", alignItems: "center", justifyContent: "space-between", gap: 16 }}>
         <h1 style={{ letterSpacing: 1, margin: 0 }}>
-          <span style={{ color: "#86e1ff" }}>Override</span>: <span style={{ color: "#ff6ec7" }}>Genesis</span>
+          <span style={{ color: "#86e1ff" }}>Override</span>: <span style={{ color: "#ff6ec7" }}>Genesys</span>
         </h1>
         <div style={{ display: "flex", gap: 8 }}>
           <button
