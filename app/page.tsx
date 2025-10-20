@@ -65,7 +65,7 @@ export default function Home() {
         <VideoCard
           title={t("Teaser 3 — À venir", "Teaser 3 — Coming soon")}
           src="https://www.youtube.com/embed/YOUTUBE_ID_3"
-          note={t("Valentinos, Tiger Claws, nomades, mercenaire principal.", "Valentinos, Tiger Claws,nomads, main mercenary.")}
+          note={t("Valentinos, Tiger Claws, Nomades, mercenaire principal.", "Valentinos, Tiger Claws, Nomads, main mercenary.")}
         />
       </section>
 
