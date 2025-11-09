@@ -64,7 +64,7 @@ export default function Home() {
         />
         <VideoCard
           title={t("Teaser 3 — Binevenue à Night City", "Teaser 3 — Welcome to Night City")}
-          src="https://www.youtube.com/embed/2Saq3mER9bY?si=c_h3qaCmTpB08u3-"
+          src="https://www.youtube.com/embed/2Saq3mER9bY"
           note={t("Valentinos, Tiger Claws, Nomades, mercenaire principal.", "Valentinos, Tiger Claws, Nomads, main mercenary.")}
         />
       </section>
