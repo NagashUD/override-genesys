@@ -63,8 +63,8 @@ export default function Home() {
           note={t("Mox bar, Voodoo vibes, Sixth Street, apparition de Tina.", "Mox bar, Voodoo vibes, Sixth Street, Tina’s reveal.")}
         />
         <VideoCard
-          title={t("Teaser 3 — À venir", "Teaser 3 — Coming soon")}
-          src="https://www.youtube.com/embed/YOUTUBE_ID_3"
+          title={t("Teaser 3 — Binevenue à Night City", "Teaser 3 — Welcome to Night City")}
+          src="https://www.youtube.com/embed/2Saq3mER9bY?si=c_h3qaCmTpB08u3-"
           note={t("Valentinos, Tiger Claws, Nomades, mercenaire principal.", "Valentinos, Tiger Claws, Nomads, main mercenary.")}
         />
       </section>
